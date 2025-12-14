@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\verify\\email/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\credits/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\verify\\email/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\verify\\domain/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\batch/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\batch/**)",
+      "Read(/C:\\Users\\herbe\\IdeaProjects\\FreelancerMap Crawler\\src\\main\\java\\de\\herbertwalde\\api\\bouncer\\batch/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
