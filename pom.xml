@@ -4,7 +4,7 @@
 
   <groupId>de.entwicklertraining</groupId>
   <artifactId>bouncer4j-project</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
 
   <name>Bouncer4J (Project)</name>
@@ -54,7 +54,7 @@
     <junit.version>5.10.2</junit.version>
     <slf4j.version>2.0.17</slf4j.version>
     <log4j.version>2.24.3</log4j.version>
-    <api-base.version>2.2.0</api-base.version>
+    <api-base.version>2.2.1</api-base.version>
     <json-java.version>20240303</json-java.version>
     <jackson.version>2.18.2</jackson.version>
 

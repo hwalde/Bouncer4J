@@ -24,13 +24,13 @@ Add the dependency from Maven Central:
 <dependency>
     <groupId>de.entwicklertraining</groupId>
     <artifactId>bouncer4j</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
 For Gradle:
 ```gradle
-implementation 'de.entwicklertraining:bouncer4j:1.0.0'
+implementation 'de.entwicklertraining:bouncer4j:1.0.1'
 ```
 
 ## Getting Started
